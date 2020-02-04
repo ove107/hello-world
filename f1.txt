@@ -1,0 +1,1 @@
+plain text to test git commands and git repo and the distributed functionalities of git and its importance as version control system.
