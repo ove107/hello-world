@@ -1,0 +1,2 @@
+this is a text document that we will use for our git tutorial and exercisees. this is a plain text file
+
