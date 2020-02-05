@@ -1,3 +1,4 @@
 plain text to test git commands and git repo and the distributed functionalities of git and its importance as version control system.okay tested
 outer f1.txt
 now we will check the diff with staged version
+this is unstaged line but tracked
