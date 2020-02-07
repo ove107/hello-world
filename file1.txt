@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+=======
+i am editing file1 in new_branch
+>>>>>>> new_branch
